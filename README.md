@@ -1,2 +1,2 @@
-# RepositorioHenry
-Este es un Repositorio del Modulo 2 del Curso de Henry
+En este Modulo 2 estamos creando un Repositorio Remoto y Luego un Repositorio Local 
+para realizar el flujo Basico entre anbos repositorios 
